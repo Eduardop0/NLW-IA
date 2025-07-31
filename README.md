@@ -1,3 +1,5 @@
+# Resumo Geral
+- Assistente de Ia usando a API do Gemini focado em ajudar players com estratégias e dicas de jogos
 # HTML
 
 - Hypertext
